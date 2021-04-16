@@ -1,0 +1,47 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+#bakerloo {
+    background-color: brown;
+    color: white;
+}
+#central {
+    background-color: red;
+    color: white;
+}
+#circle {
+    background-color: yellow;
+    color: black;
+}
+#district {
+    background-color: green;
+    color: white;
+}
+#hammersmith-city {
+    background-color: palevioletred;
+    color: black;
+}
+#jubilee {
+    background-color: grey;
+    color: white;
+}
+#metropolitan {
+    background-color: rgb(128, 15, 84);
+    color: white;
+}
+#northern{
+    background-color: black;
+    color: white;
+}
+#piccadilly {
+    background-color: darkblue;
+    color: white;
+}
+#victoria {
+    background-color: skyblue;
+    color: black;
+}
+#waterloo-city {
+    background-color: aquamarine;
+    color: black;
+}
