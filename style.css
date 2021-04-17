@@ -45,3 +45,6 @@ body {
     background-color: aquamarine;
     color: black;
 }
+td {
+    width: 200px;
+}
